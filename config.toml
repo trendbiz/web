@@ -1,0 +1,17 @@
+baseurl = "http://trendbiz.co/"
+languageCode = "en-us"
+title = "TrendBiz"
+theme = "hugoscroll"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+canonifyurls = true
+
+[Params]
+  github = "trendbiz"
+  twitter = "onlinetrendbiz"
+  email = "onlinetrendbiz@gmail.com"
+  description = "Cloud Services and Business Consulting"
+  linkedin = "company/trendbiz-company"
+  cover = "/images/background-cover.jpg"
+  logo = "/images/logo67x67.png"
