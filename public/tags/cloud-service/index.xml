@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Service on TrendBiz</title>
+    <link>http://trendbiz.co/tags/cloud-service/</link>
+    <description>Recent content in Cloud Service on TrendBiz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Mar 2015 04:35:04 -0400</lastBuildDate>
+    <atom:link href="http://trendbiz.co/tags/cloud-service/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cloud Services</title>
+      <link>http://trendbiz.co/post/first/</link>
+      <pubDate>Mon, 30 Mar 2015 04:35:04 -0400</pubDate>
+      
+      <guid>http://trendbiz.co/post/first/</guid>
+      <description>&lt;p&gt;Cloud works! Our entire infrastructure is based on Amazon Web Services (AWS). Whether you are a large enterprise, an SME or a startup;
+whether you are into banking or education, R&amp;amp;D or service, TrendBiz has the cloud solution befitting your needs.&lt;/p&gt;
+
+&lt;p&gt;We cater to the specific business requirements of each organization. This ensures that all your IT needs are met.
+Cloud services facilitate use of the latest, most advanced IT resources without having to buy them. Pay-As-You-Go services can be integrated into your service
+plan to help you access better resources at a competent price. Grow faster with better IT resources at your disposal without having to actually own them.
+Get higher Computing Power with efficient information transfer.&lt;/p&gt;
+
+&lt;p&gt;Access your enterprise data and manage it from anywhere around the globe. Pay only for what you use.&lt;/p&gt;
+
+&lt;p&gt;Scale up or scale down your computing capacity within minutes, depending on your needs. Gain quick accessto increased storage and resources.
+Choose your specification as per your business. Multiple layers of security to ensure safety and integrity of your data, application and IP.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
